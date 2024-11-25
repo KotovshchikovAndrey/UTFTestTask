@@ -1,0 +1,5 @@
+*env
+*venv
+andrey.py
+docker-compose.yaml
+.gitignore
