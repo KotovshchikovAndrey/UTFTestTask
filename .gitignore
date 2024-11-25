@@ -2,3 +2,4 @@
 *venv
 andrey.py
 __pycache__
+!example.env
